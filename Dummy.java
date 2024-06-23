@@ -1,5 +1,7 @@
 public class Dummy {
     public static void main(String[] args) {
-        String y = 'a';
+        int x = 5;
+
+        x -= 1;
     }
 }
