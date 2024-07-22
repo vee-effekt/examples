@@ -1,3 +1,3 @@
 public interface Interface {
-    void foo(int x, boolean y);
+    void foo_tag(int x_prime, boolean y);
 }
