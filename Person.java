@@ -1,5 +1,7 @@
+import java.util.Optional;
+
 public class Person {
     public String firstName;
-    public String lastName;
+    public Optional<String> lastName;
     private int age;
 }
