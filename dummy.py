@@ -1,3 +1,3 @@
-y = 5
-x = +y
+z = 5
+x = -z
 print(x)
