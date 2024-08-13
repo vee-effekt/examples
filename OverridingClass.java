@@ -1,6 +1,6 @@
 public class OverridingClass extends Class {
     @Override
-    public boolean method() {
+    public boolean methodRename() {
         return true;
     }
 }

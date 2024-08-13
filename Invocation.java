@@ -28,5 +28,9 @@ public class Invocation {
         System.out.println("Nonsense.");
         System.out.println("Nonsense.");
         System.out.println("Nonsense.");
+        
+        if (c.methodRename()) {
+            break;
+        }
     }
 }

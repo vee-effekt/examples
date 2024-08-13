@@ -1,5 +1,5 @@
 public class Class {
-    public boolean method() {
+    public boolean methodRename() {
         return false;
     }
 }
