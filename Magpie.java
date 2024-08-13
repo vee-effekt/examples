@@ -4,7 +4,7 @@ public class Magpie {
         magpie.sound("Meow");
     }
 
-    public void sound(String sound) {
-        System.out.println(sound);
+    public void sound(String noise) {
+        System.out.println(noise);
     }
 }
