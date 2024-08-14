@@ -3,8 +3,8 @@ public class Cat {
         Cat cat = new Cat();
         cat.sound("Meow");
     }
-
-    public void sound(String sound) {
+    
+    public void sound(String noise) {
         System.out.println(sound);
     }
 }
