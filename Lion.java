@@ -5,7 +5,7 @@ public class Lion extends Cat {
     }
 
     @Override
-    public void sound(String sound) {
+    public void sound(String noise) {
         System.out.println(sound);
         System.out.println(sound);
     }

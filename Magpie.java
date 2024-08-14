@@ -5,8 +5,8 @@ public class Magpie extends Cat {
     }
 
     @Override
-    public void sound(boolean sound) {
-        if (sound) {
+    public void sound(boolean noise) {
+        if (noise) {
             System.out.println("Meow");
         }
     }

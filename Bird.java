@@ -4,8 +4,8 @@ public class Bird {
         bird.sound(false);
     }
 
-    public void sound(boolean sound) {
-        if (sound) {
+    public void sound(boolean noise) {
+        if (noise) {
             System.out.println("Tweet");
         }
     }
